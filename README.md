@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Support Ticket AI Assistant
 
 This project is an end-to-end system built to analyze customer support tickets, answer natural language queries using an LLM, and flag operational anomalies.
@@ -34,3 +35,7 @@ This project is an end-to-end system built to analyze customer support tickets, 
 ## Limitations & Trade-offs
 - In-memory data processing with Pandas works well for 500 rows, but large production datasets would require migration to SQL or vector storage.
 - Python code execution by the agent runs locally for this prototype; production deployments would require isolated container sandboxing.
+=======
+# AI_Engineer_Assessment
+An AI-powered support ticket assistant and operational anomaly detection system built with FastAPI, Streamlit, and Python.
+>>>>>>> 7518fb8e63422673aa7c8171e4f4b19ef4c45e39
