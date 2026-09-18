@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+pandas
+streamlit
+requests
+langchain-experimental
+langchain-community
+langchain-groq
+tabulate
